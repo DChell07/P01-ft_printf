@@ -1,0 +1,12 @@
+Makefile
+
+*.h
+*.a
+
+*.c
+*.o
+
+*.out
+*.exe
+
+libft/

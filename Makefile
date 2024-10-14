@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: david_chellen <david_chellen@student.42    +#+  +:+       +#+         #
+#    By: dchellen <dchellen@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/10/02 16:30:45 by dchellen          #+#    #+#              #
-#    Updated: 2024/10/10 16:12:35 by david_chell      ###   ########.fr        #
+#    Updated: 2024/10/14 16:49:33 by dchellen         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
