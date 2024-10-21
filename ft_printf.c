@@ -6,7 +6,7 @@
 /*   By: dchellen <dchellen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/02 16:01:14 by dchellen          #+#    #+#             */
-/*   Updated: 2024/10/17 11:29:13 by dchellen         ###   ########.fr       */
+/*   Updated: 2024/10/21 14:37:46 by dchellen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -65,7 +65,7 @@ int	ft_printf(const char *format, ...)
 
 // int main(void)
 // {
-// 	printf(" %d\n", printf("%c%c%c", 'a', '\t', 'b'));
-// 	printf(" %d\n", ft_printf("%c%c%c", 'a', '\t', 'b'));
+// 	printf(" %d\n", printf("%d", 243));
+// 	printf(" %d\n", ft_printf("%d", 243));
 // 	return (0);
 // }
