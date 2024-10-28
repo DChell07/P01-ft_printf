@@ -6,7 +6,7 @@
 /*   By: dchellen <dchellen@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/02 16:01:14 by dchellen          #+#    #+#             */
-/*   Updated: 2024/10/25 15:47:25 by dchellen         ###   ########.fr       */
+/*   Updated: 2024/10/28 14:35:30 by dchellen         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -66,6 +66,6 @@ int	ft_printf(const char *format, ...)
 // int main(void)
 // {
 // 	printf(" le vrais -> %d\n", printf("%X", 68435));
-// 	printf(" le faux  -> %d\n", ft_printf("%X", 68435));
+// 	ft_printf(" le faux  -> %d\n", ft_printf("%X", 68435));
 // 	return (0);
 // }
