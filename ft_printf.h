@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: david_chellen <david_chellen@student.42    +#+  +:+       +#+        */
+/*   By: david <david@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/06 13:18:22 by david_chell       #+#    #+#             */
-/*   Updated: 2024/10/14 01:01:48 by david_chell      ###   ########.fr       */
+/*   Updated: 2025/01/29 00:37:58 by david            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # include <unistd.h>
 # include <stdarg.h>
 # include <stdlib.h>
+# include "libft/libft.h"
 
 int		ft_printf(const char *format, ...);
 int		print_putstr_fd(char *s, int fd);
