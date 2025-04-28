@@ -65,7 +65,6 @@ int	ft_printf(const char *format, ...)
 
 // int main(void)
 // {
-// 	printf(" le vrais -> %d\n", printf("%X", 68435));
 // 	ft_printf(" le faux  -> %d\n", ft_printf("%X", 68435));
 // 	return (0);
 // }
